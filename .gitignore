@@ -1,0 +1,9 @@
+
+#variables de entorno
+.env
+
+#paquetes de node -npm
+node_modules
+
+#archivo generado al instalar dependencias
+package-lock.json
