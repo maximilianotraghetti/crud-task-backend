@@ -1,0 +1,1 @@
+Para la aplicación se debe de copiar el repositorio en la computadora en la computadora, luego se debera usar thurder cliente para probar las realizaciones del CRUD y la puesta a prueba a todos las consultas.
